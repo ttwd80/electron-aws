@@ -1,0 +1,9 @@
+{
+  //by the time you read this, this key has already been rotated
+  "awsAccessKey" : "AKIAJMEX4BTKIVYFLSAA",
+  
+  "awsSecretKey" : "VkAZEMHqPvgECZnPsoqA14k8R597wuxySvAI4LBO",
+  "region" : "ap-southeast-2",
+  "bucketName" : "ttwd80",
+  "key" : "sample-content.txt"
+}
