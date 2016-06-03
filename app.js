@@ -1,5 +1,5 @@
 const electron = require('electron');
-const keys = require(__dirname + 'keys.json');
+const keys = require(__dirname + '/keys.json');
 
 const {app} = electron;
 
